@@ -1,0 +1,2 @@
+2025-10-06 11:43:36,816 - INFO - Config file read successfully
+2025-10-06 11:43:36,816 - INFO - Loaded coordinates from config

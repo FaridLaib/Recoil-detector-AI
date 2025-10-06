@@ -1,0 +1,2 @@
+cd C:\REKOILX - BEST\record
+python main.py

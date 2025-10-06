@@ -1,0 +1,2 @@
+cd C:\REKOILX - BEST\Detection
+python XIM_Recoil.py

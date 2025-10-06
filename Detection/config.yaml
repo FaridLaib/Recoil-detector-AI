@@ -1,0 +1,58 @@
+button_mapping:
+  y_button: 32768
+modifier_value: 1.0
+scan_coord_one:
+  height: 24
+  left: 1531
+  top: 1033
+  width: 137
+scan_coord_two:
+  height: 21
+  left: 1676
+  top: 1034
+  width: 141
+scan_coord_attachment:
+  height: 50
+  left: 1600
+  top: 980
+  width: 200
+scan_coord_ammo:
+  height: 40
+  left: 1650
+  top: 1050
+  width: 80
+scan_coord_mag_icon:
+  left: 1519
+  top: 996
+  width: 117
+  height: 32
+slot_1_active:
+  height: 24
+  left: 1531
+  top: 1033
+  width: 137
+slot_1_brightness:
+  height: 8
+  left: 1525
+  top: 1034
+  width: 8
+slot_1_inactive:
+  height: 23
+  left: 1551
+  top: 1034
+  width: 100
+slot_2_active:
+  height: 21
+  left: 1676
+  top: 1034
+  width: 141
+slot_2_brightness:
+  height: 8
+  left: 1668
+  top: 1034
+  width: 8
+slot_2_inactive:
+  height: 24
+  left: 1713
+  top: 1033
+  width: 100
